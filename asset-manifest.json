@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/progressive-web-app-characters/static/css/main.79ef9f17.chunk.css",
+    "main.js": "/progressive-web-app-characters/static/js/main.41c4fe4a.chunk.js",
+    "main.js.map": "/progressive-web-app-characters/static/js/main.41c4fe4a.chunk.js.map",
+    "runtime-main.js": "/progressive-web-app-characters/static/js/runtime-main.2aa9579b.js",
+    "runtime-main.js.map": "/progressive-web-app-characters/static/js/runtime-main.2aa9579b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/progressive-web-app-characters/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.dfe0dcf6.chunk.js": "/progressive-web-app-characters/static/js/2.dfe0dcf6.chunk.js",
+    "static/js/2.dfe0dcf6.chunk.js.map": "/progressive-web-app-characters/static/js/2.dfe0dcf6.chunk.js.map",
+    "index.html": "/progressive-web-app-characters/index.html",
+    "precache-manifest.df4ecde1a189c7beede7aada41c6bd23.js": "/progressive-web-app-characters/precache-manifest.df4ecde1a189c7beede7aada41c6bd23.js",
+    "service-worker.js": "/progressive-web-app-characters/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/progressive-web-app-characters/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.79ef9f17.chunk.css.map": "/progressive-web-app-characters/static/css/main.79ef9f17.chunk.css.map",
+    "static/js/2.dfe0dcf6.chunk.js.LICENSE.txt": "/progressive-web-app-characters/static/js/2.dfe0dcf6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/progressive-web-app-characters/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa9579b.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.dfe0dcf6.chunk.js",
+    "static/css/main.79ef9f17.chunk.css",
+    "static/js/main.41c4fe4a.chunk.js"
+  ]
+}
